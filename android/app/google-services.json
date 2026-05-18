@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "87860048304",
+    "project_id": "sika-applications",
+    "storage_bucket": "sika-applications.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87860048304:android:a7c35f7dcacfc50275a675",
+        "android_client_info": {
+          "package_name": "app.waslah.sika_customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvI-tZfAVZafGYjGanmCI7S_M_hRsV6u8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87860048304:android:2a3d6cde3a6f92d075a675",
+        "android_client_info": {
+          "package_name": "com.example.sika_agent_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvI-tZfAVZafGYjGanmCI7S_M_hRsV6u8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
